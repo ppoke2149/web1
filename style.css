@@ -10,9 +10,9 @@ body{
 
 .wrap{
     position: absolute;
-    top: 35%;
-    left: 45%;
-    transform: translate((-35%, -45%));
+    top: 50%;
+    left: 50%;
+    transform: translate((-50%, -50%));
     color: white;
     text-align: center;
 }
